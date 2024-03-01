@@ -6,6 +6,14 @@
   "scripts": {
     "bot": "nodemon index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takachan0012/evmscan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/takachan0012/evmscan/issues"
+  },
+  "homepage": "https://github.com/takachan0012/evmscan#readme",
   "keywords": [
     "evmscan",
     "evmscanner",
