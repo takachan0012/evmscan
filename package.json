@@ -1,0 +1,22 @@
+{
+  "name": "evmscan",
+  "version": "1.0.0",
+  "description": "Ethereum Virtual Machine Scanner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "evmscan",
+    "evmscanner",
+    "ethereum",
+    "virtual",
+    "machine",
+    "scanner"
+  ],
+  "author": "takadotdev",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
