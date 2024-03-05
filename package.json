@@ -1,6 +1,6 @@
 {
   "name": "@takadotdev/evmscan",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ethereum Virtual Machine Scanner",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/takachan0012/evmscan.git"
+    "url": "https://github.com/takachan0012/evmscan.git"
   },
   "bugs": {
     "url": "https://github.com/takachan0012/evmscan/issues"
